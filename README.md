@@ -18,10 +18,10 @@ Seeking improvement and knowledge in the following areas:
 - 9° place **RoboCup@Home World Competition** Bordeaux 2023
 - 11° place **RoboCup@Home World Competition** Eindhoven 2024
 
-<div align="left">
-  <a href="https://github.com/edompedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edompedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edompedro&layout=compact&langs_count=7&theme=dark"/>
+<div>
+<a href="https://github.com/edompedro">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
