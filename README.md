@@ -1,16 +1,24 @@
-## Hi there 👋
+🔓 Skills
 
-<!--
-**edompedro/edompedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Programming Languages: Python, TypeScript, Java
+    Libraries & Tools: Git, GitHub, Linux
+    Robotics: ROS1/ROS2, SMACH, YASMIN, MoveIt
+    Languages: Portuguese (native), English (Advance)
+    Soft Skills: Team Leadership, Team Work, Organized, Proactive
 
-Here are some ideas to get you started:
+📚 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seeking improvement and knowledge in the following areas:
+
+    Mobile Robotics
+    ROS and MoveIt
+
+🏆 Achievements
+
+    🥇 Brazilian Robotics Competition 2023
+    🥇 Brazilian Robotics Competition 2024
+    9° place RoboCup@Home World Competition Bordeaux 2023
+    11° place RoboCup@Home World Competition Eindhoven 2024
+
+Pedro-GitHub Pedro-Ubuntu Pedro-Trello Pedro-vscode
+
